@@ -1,0 +1,37 @@
+{
+  "name": "better-ytsr",
+  "version": "1.0.0",
+  "description": "better use of ytsr",
+  "main": "./lib/index.js",
+  "types": "./lib/index.d.ts",
+  "typings": "./lib/index.d.ts",
+  "files": [
+    "lib"
+  ],
+  "homepage": "https://github.com/Bananamilk452/better-ytsr#readme",
+  "bugs": {
+    "url": "https://github.com/Bananamilk452/better-ytsr/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Bananamilk452/better-ytsr"
+  },
+  "keywords": [
+    "youtube",
+    "search",
+    "youtube-api",
+    "ytsr",
+    "youtube-search"
+  ],
+  "author": "Bananamilk452 (https://github.com/Bananamilk452)",
+  "license": "MIT",
+  "dependencies": {
+    "ytsr": "^3.5.3"
+  },
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.10"
+  },
+  "engines": {
+    "node": ">=8"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "uploadDate": {
+    "last hour": "EgIIAQ==",
+    "today": "EgIIAg==",
+    "this week": "EgIIAw==",
+    "this month": "EgIIBA==",
+    "this year": "EgIIBQ=="
+  },
+  "type": {
+    "video": "EgIQAQ==",
+    "channel": "EgIQAg==",
+    "playlist": "EgIQAw==",
+    "movie": "EgIQBA=="
+  },
+  "duration": {
+    "under 4 minutes": "EgIYAQ==",
+    "4 - 20 minutes": "EgIYAw==",
+    "over 20 minutes": "EgIYAg=="
+  },
+  "features": {
+    "live": "EgJAAQ==",
+    "4k": "EgJwAQ==",
+    "hd": "EgIgAQ==",
+    "subtitles/cc": "EgIoAQ==",
+    "creative commons": "EgIwAQ==",
+    "360": "EgJ4AQ==",
+    "vr180": "EgPQAQE=",
+    "3d": "EgI4AQ==",
+    "hdr": "EgPIAQE=",
+    "location": "EgO4AQE=",
+    "purchased": "EgJIAQ=="
+  },
+  "sortBy": {
+    "relevance": "",
+    "upload date": "CAI=",
+    "view count": "CAM=",
+    "rating": "CAE="
+  }
+}
