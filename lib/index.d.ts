@@ -21,6 +21,8 @@ export type {
 
 export { continueReq, version } from 'ytsr';
 
+import { Result } from 'ytsr';
+
 interface OptionWithFilter extends Options {
   filters?: {
     uploadDate?: 'Last hour' | 'Today' | 'This week' | 'This month' | 'This year'
@@ -36,6 +38,6 @@ interface OptionWithFilter extends Options {
  * @param options Optional additional Options or Filters
  * @description Searches youtube for the query
  */
-  function betterytsr(query: string, options?: OptionWithFilter): Promise<ytsr.Result>;
+  function betterytsr(query: string, options?: OptionWithFilter): Promise<Result>;
   
   export = betterytsr;
