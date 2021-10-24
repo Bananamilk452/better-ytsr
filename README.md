@@ -38,7 +38,7 @@ Searches for the given string
 * options
   * object with options
   * "gl", "hl", "safeSearch", "limit", "pages", "requestOptions" (from node-ytsr)
-  * ~~exactMatch[Boolean] -> search for actual search query when youtube auto changes searchquery. (when youtube says 'Search Instead for')~~ **not implemented yet in this version**
+  * exactMatch[Boolean] -> search for actual search query when youtube auto changes searchquery. (when youtube says 'Search Instead for')
   * filters[Object] -> exact same with Youtube filters **filter value is case-insensitive**
     * uploadDate[String]: `Last hour`, `Today`, `This week`, `This month`, `This year`
     * type[String]: `Video`, `Channel`, `Playlist`, `Movie`
