@@ -1,5 +1,5 @@
 {
-  "uploadDate": {
+  "uploaddate": {
     "last hour": "EgIIAQ==",
     "today": "EgIIAg==",
     "this week": "EgIIAw==",
@@ -30,7 +30,7 @@
     "location": "EgO4AQE=",
     "purchased": "EgJIAQ=="
   },
-  "sortBy": {
+  "sortby": {
     "relevance": "",
     "upload date": "CAI=",
     "view count": "CAM=",
